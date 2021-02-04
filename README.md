@@ -3,3 +3,4 @@ Ethan Walters
 David Banda
 Kyra Moran
 Aditya Gopalan
+John Wilson
