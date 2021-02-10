@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Oh my god i am still working on this.
 This is Ethan's README file. Changing the file for commit error.
+=======
+another change for error.
+This is Ethan's README file. Work  file.
+>>>>>>> 826dd884c59a15d7f4329db5d0f8b50b21ec0880
 =======
 Project Team Members:
 Ethan Walters
