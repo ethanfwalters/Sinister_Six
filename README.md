@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-another change for error.
+Oh my god i am still working on this.
 This is Ethan's README file. Changing the file for commit error.
 =======
 Project Team Members:
