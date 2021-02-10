@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 another change for error.
-This is Ethan's README file. Changing the file for commit error.
+This is Ethan's README file. Work  file.
 =======
 Project Team Members:
 Ethan Walters
