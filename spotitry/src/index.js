@@ -5,11 +5,12 @@ import App from './App';
 import Home from './domains/Home'
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route ,Switch} from 'react-router-dom';
-import Store from './store'
+import {store} from './store/index.js'
 import {Provider} from 'react-redux'
 
 ReactDOM.render(
   <React.StrictMode>
+    <Provider store={store}>
       <BrowserRouter>
         <Switch>
           <Route
@@ -23,6 +24,7 @@ ReactDOM.render(
           </Route>
         </Switch>
       </BrowserRouter>
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );
